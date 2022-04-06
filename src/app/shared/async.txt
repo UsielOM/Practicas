@@ -1,0 +1,25 @@
+fetch consulta o peticion a un api
+
+promesa 
+Programacion asincrona se le de arriba hacia abajo 
+
+
+stack de programcion 
+
+una consulta un servidor es async por que cuando se le hace una consulta y 
+este se tiene que esperar a que el servidor le conteste para que este
+pueda hacer su funcion de seguir avanzando 
+las promesas son como decirle esperate tantito te voy a mandar unos datos 
+pero me tienes que dar chance a que termine de procesar esa informacion
+
+
+.then con fetch 
+
+
+DOOM
+El modelo de objeto de documento (DOM)
+
+Identificando las diferentes cosas que se encuentren en nuestro html 
+
+practiccamente poder iteractuar 
+
